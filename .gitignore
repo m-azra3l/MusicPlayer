@@ -1,0 +1,9 @@
+/.vs
+/data
+/env
+/img
+/fonts
+*.ico
+*.png
+module1.py
+module2.py
